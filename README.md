@@ -219,7 +219,7 @@ src/main
 		</tr>
 		<tr>
 			<th><a href="https://github.com/RbCream" target="_blank">김헌종</a></th>
-			<th><a href="https://github.com/pjiny92" target="_blank">박혜진</a></th>
+			<th><a href="https://github.com/Jinventure" target="_blank">박혜진</a></th>
 			<th><a href="https://github.com/ha2way" target="_blank">박현아</a></th>
 		</tr>
 		<tr>
