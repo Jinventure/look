@@ -214,7 +214,7 @@ src/main
 	<tbody>
 		<tr>
 			<th><img width="150px" src="https://github.com/RbCream.png" alt="김헌종"/></th>
-			<th><img width="150px" src="https://github.com/pjiny92.png" alt="박혜진"/></th>
+			<th><img width="150px" src="https://github.com/Jinventure.png" alt="박혜진"/></th>
 			<th><img width="150px" src="https://github.com/ha2way.png" alt="박현아"/></th>
 		</tr>
 		<tr>
